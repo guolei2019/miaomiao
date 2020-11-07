@@ -9,7 +9,8 @@ function bbb(){
 }
 
 function aaa(){
-  console.log('我是v_glguo_x写的，给亮老比演示的代码')
+  // console.log('我是v_glguo_x写的，给亮老比演示的代码')
+  console.log(111)
 }
 aaa()
 
