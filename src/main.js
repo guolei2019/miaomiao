@@ -4,6 +4,9 @@ import router from './router'
 import store from './store'
 
 Vue.config.productionTip = false
+function bbb(){
+  console.log(123456,"我是v_glguo写的")
+}
 
 function aaa(){
   console.log(12345679,'我是v_glguo_x写的')
