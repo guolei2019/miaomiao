@@ -9,7 +9,7 @@ function bbb(){
 }
 
 function aaa(){
-  console.log(12345679,'我是v_glguo_x写的')
+  console.log('我是v_glguo_x写的，给亮老比演示的代码')
 }
 aaa()
 
